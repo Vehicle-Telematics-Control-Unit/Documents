@@ -1,0 +1,9 @@
+https://www.researchgate.net/publication/339245063_Increasing_GPS_Localization_Accuracy_With_Reinforcement_Learning
+
+
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/api-reference/network/esp_now.html
+https://www.ibm.com/docs/en/i/7.2?topic=support-ethernet-frame-format
+
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7287954/
